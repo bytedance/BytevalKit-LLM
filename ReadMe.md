@@ -236,7 +236,7 @@ BytevalKit_LLM/
 
 > The following are framework evaluation results only, with models listed in no particular order.
 
-| Dataset | Metric | Qwen3_30B | Qwen3-14B | Qwen3-235b-a22b | DeepSeek-V3-671B | Qwen1.7B-instruct | Qwen3_8B | Qwen2.5_1.5B | Qwen2.5_7B |
+| Dataset | Metric | Qwen3_30B | Qwen3-14B | Qwen3-235b<br>-a22b | DeepSeek-V3-671B | Qwen1.7B-instruct | Qwen3_8B | Qwen2.5_1.5B | Qwen2.5_7B |
 |-------|--------|-----------|-----------|------------------|------------------|-------------------|----------|--------------|------------|
 | AIME24 | acc    | 33.33     | 26.67     | 50               | 33.3             | 16.67             | 23.3     | 3.33         | 13.3       |
 | AIME25 | acc    | 20        | 23.33     | 27.5             | 25.83            | 7.5               | 8.33     | 0            | 15.42      |
